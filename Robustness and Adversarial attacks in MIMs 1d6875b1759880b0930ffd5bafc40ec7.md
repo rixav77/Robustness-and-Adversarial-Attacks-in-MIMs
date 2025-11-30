@@ -17,7 +17,7 @@ Though widely accepted for learning feature representations, MIMs see images thr
 
 This leads us to an important question:
 
-> Are MIM-based models robust against adversarial attacks?
+> Are MIM-based models robust against adversarial attacks??
 > 
 
 This is what we explore under **"Robustness and Adversarial Attacks in MIM"** - how well MIM models can handle tricky inputs, and what kinds of mathematical or algorithmic methods can help improve their reliability.
@@ -26,7 +26,7 @@ This is what we explore under **"Robustness and Adversarial Attacks in MIM"** - 
 
 We will explore this topic step by step:
 
-1. **How exactly MIMs work?**
+1. **How exactly MIM works?**
 2. **What are Adversarial Attacks?**
 3. **Robustness in MIM**
 4. **Evaluating MIM under Attacks**
